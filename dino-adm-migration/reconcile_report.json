@@ -1,0 +1,3161 @@
+{
+  "created": [],
+  "filledGaps": [
+    {
+      "tag": "TQL 02",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQL 03",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 07",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 08",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 09",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 10",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 11",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 12",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 13",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 14",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 15",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 16",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 17",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 18",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 19",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 20",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 21",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 22",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQL 07",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 37",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 38",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 39",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 43",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 44",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 45",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 47",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 52",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 53",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQL 06",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQL 04",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQL 05",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQL 09",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 48",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 49",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 50",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 51",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 31",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 32",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 33",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 34",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 35",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 07",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 08",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 09",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 10",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 11",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 12",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 13",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 14",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 15",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 16",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 17",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 18",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 20",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 21",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 22",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 23",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 47",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 48",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 49",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 50",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 51",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 52",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 39",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 40",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 41",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 42",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 43",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 44",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 45",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 46",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 63",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 64",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 65",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 66",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 67",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 32",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 33",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 34",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 35",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 36",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 37",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQL 05",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 27",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 29",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 59",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 60",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 61",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 62",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 53",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 54",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "SL 01",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "SL 02",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "SL 03",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "SL 04",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "SL 05",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "SL 06",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "SL 07",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "SL 08",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 02",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 03",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    },
+    {
+      "tag": "TQ 04",
+      "section": "general",
+      "fields": [
+        "isActive"
+      ],
+      "manholesAdded": 0
+    }
+  ],
+  "alreadyMatched": [
+    {
+      "tag": "TQL 02",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 01 (Terrestre)\""
+    },
+    {
+      "tag": "TQL 02",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQL 02",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQL 03",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQL 03",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQL 03",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQL 03",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 07",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 07",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 07",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 07",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 08",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 08",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 08",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 08",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 09",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 09",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 09",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 10",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 10",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 10",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 11",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 11",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 11",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 11",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 12",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 12",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 12",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 12",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 13",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 13",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 13",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 13",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 14",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 14",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 14",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 14",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 15",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 15",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 15",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 15",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 16",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 16",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 16",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 16",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 17",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 17",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 17",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 17",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 18",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 18",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 18",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 18",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 19",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 19",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 19",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 19",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 20",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 20",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 20",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 20",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 21",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 21",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 21",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 21",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 22",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 22",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 22",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 22",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQL 07",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQL 07",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQL 07",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQL 07",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 37",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 37",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 37",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 37",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 38",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 38",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 38",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 38",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 39",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 39",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 39",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 39",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 43",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 43",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 43",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 43",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 44",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 44",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 44",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 44",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 45",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 45",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 45",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 45",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 47",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 47",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 47",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 47",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 52",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 52",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 52",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 52",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 53",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 53",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 53",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 53",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQL 06",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQL 06",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQL 06",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQL 06",
+      "section": "manhole-photo",
+      "note": "Boca de visita 3 already has an image"
+    },
+    {
+      "tag": "TQL 06",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQL 04",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQL 04",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQL 04",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQL 04",
+      "section": "manhole-photo",
+      "note": "Boca de visita 3 already has an image"
+    },
+    {
+      "tag": "TQL 04",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQL 05",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQL 05",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQL 05",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQL 05",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQL 09",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 01 (Terrestre)\""
+    },
+    {
+      "tag": "TQL 09",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQL 09",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 48",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 48",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 48",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 49",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 49",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 49",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 50",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 50",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 50",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 51",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 51",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 51",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 31",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 31",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 31",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 31",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 32",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 32",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 32",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 32",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 33",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 33",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 33",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 33",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 34",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 34",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 34",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 34",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 35",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 35",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 35",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 35",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 07",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 07",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 07",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 08",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 08",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 08",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 09",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 09",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 09",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 10",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 10",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 10",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 11",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 11",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 11",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 12",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 12",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 12",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 13",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 13",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 13",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 14",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 14",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 14",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 15",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 15",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 15",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 16",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 16",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 16",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 17",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 17",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 17",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 18",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 18",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 18",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 20",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 20",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 20",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 21",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 21",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 21",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 22",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 22",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 22",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 23",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 23",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 23",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 47",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 47",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 47",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 48",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 48",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 48",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 49",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 49",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 49",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 50",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 50",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 50",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 51",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 51",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 51",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 52",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 52",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 52",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 39",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 39",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 39",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 39",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 40",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 40",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 40",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 40",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 41",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 41",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 41",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 41",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 42",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 42",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 42",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 42",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 43",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 43",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 43",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 43",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 44",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 44",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 44",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 44",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 45",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 45",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 45",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 45",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 46",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 46",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 46",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 46",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 63",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 63",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 63",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 63",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 64",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 64",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 64",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 65",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 65",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 65",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 66",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 66",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 66",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 67",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 67",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 67",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 32",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 32",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 32",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 33",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 33",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 33",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 34",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 34",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 34",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 35",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 35",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 35",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 36",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 36",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 36",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 37",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 37",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 37",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQL 05",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "TQL 05",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQL 05",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQL 05",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 27",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 27",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 27",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 29",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 29",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 29",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 59",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 05 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 59",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 59",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 59",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 60",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 05 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 60",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 60",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 61",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 05 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 61",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 61",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 62",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 05 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 62",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 62",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 53",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 53",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 53",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 54",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 54",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 54",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "SL 01",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "SL 01",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "SL 01",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "SL 01",
+      "section": "manhole-photo",
+      "note": "Boca de visita 3 already has an image"
+    },
+    {
+      "tag": "SL 01",
+      "section": "manhole-photo",
+      "note": "Boca de visita 4 already has an image"
+    },
+    {
+      "tag": "SL 01",
+      "section": "manhole-photo",
+      "note": "Boca de visita 5 already has an image"
+    },
+    {
+      "tag": "SL 01",
+      "section": "manhole-photo",
+      "note": "Boca de visita 6 already has an image"
+    },
+    {
+      "tag": "SL 01",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "SL 02",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "SL 02",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "SL 02",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "SL 02",
+      "section": "manhole-photo",
+      "note": "Boca de visita 3 already has an image"
+    },
+    {
+      "tag": "SL 02",
+      "section": "manhole-photo",
+      "note": "Boca de visita 4 already has an image"
+    },
+    {
+      "tag": "SL 02",
+      "section": "manhole-photo",
+      "note": "Boca de visita 5 already has an image"
+    },
+    {
+      "tag": "SL 02",
+      "section": "manhole-photo",
+      "note": "Boca de visita 6 already has an image"
+    },
+    {
+      "tag": "SL 02",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "SL 03",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "SL 03",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "SL 03",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "SL 03",
+      "section": "manhole-photo",
+      "note": "Boca de visita 3 already has an image"
+    },
+    {
+      "tag": "SL 03",
+      "section": "manhole-photo",
+      "note": "Boca de visita 4 already has an image"
+    },
+    {
+      "tag": "SL 03",
+      "section": "manhole-photo",
+      "note": "Boca de visita 5 already has an image"
+    },
+    {
+      "tag": "SL 03",
+      "section": "manhole-photo",
+      "note": "Boca de visita 6 already has an image"
+    },
+    {
+      "tag": "SL 03",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "SL 04",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 06 (Suspenso)\""
+    },
+    {
+      "tag": "SL 04",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "SL 04",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "SL 04",
+      "section": "manhole-photo",
+      "note": "Boca de visita 3 already has an image"
+    },
+    {
+      "tag": "SL 04",
+      "section": "manhole-photo",
+      "note": "Boca de visita 4 already has an image"
+    },
+    {
+      "tag": "SL 04",
+      "section": "manhole-photo",
+      "note": "Boca de visita 5 already has an image"
+    },
+    {
+      "tag": "SL 04",
+      "section": "manhole-photo",
+      "note": "Boca de visita 6 already has an image"
+    },
+    {
+      "tag": "SL 04",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "SL 05",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 04 (Suspenso)\""
+    },
+    {
+      "tag": "SL 05",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "SL 05",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "SL 05",
+      "section": "manhole-photo",
+      "note": "Boca de visita 3 already has an image"
+    },
+    {
+      "tag": "SL 05",
+      "section": "manhole-photo",
+      "note": "Boca de visita 4 already has an image"
+    },
+    {
+      "tag": "SL 05",
+      "section": "manhole-photo",
+      "note": "Boca de visita 5 already has an image"
+    },
+    {
+      "tag": "SL 05",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "SL 06",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 05 (Suspenso)\""
+    },
+    {
+      "tag": "SL 06",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "SL 06",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "SL 06",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "SL 07",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 05 (Suspenso)\""
+    },
+    {
+      "tag": "SL 07",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "SL 07",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "SL 07",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "SL 08",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 05 (Suspenso)\""
+    },
+    {
+      "tag": "SL 08",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "SL 08",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "SL 08",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 02",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 08 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 02",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 02",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 02",
+      "section": "manhole-photo",
+      "note": "Boca de visita 3 already has an image"
+    },
+    {
+      "tag": "TQ 02",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 03",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 08 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 03",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 03",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 03",
+      "section": "manhole-photo",
+      "note": "Boca de visita 3 already has an image"
+    },
+    {
+      "tag": "TQ 03",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    },
+    {
+      "tag": "TQ 04",
+      "section": "rescue",
+      "note": "already linked to \"TIPO DE RESGATE 08 (Suspenso)\""
+    },
+    {
+      "tag": "TQ 04",
+      "section": "manhole-photo",
+      "note": "Boca de visita 1 already has an image"
+    },
+    {
+      "tag": "TQ 04",
+      "section": "manhole-photo",
+      "note": "Boca de visita 2 already has an image"
+    },
+    {
+      "tag": "TQ 04",
+      "section": "manhole-photo",
+      "note": "Boca de visita 3 already has an image"
+    },
+    {
+      "tag": "TQ 04",
+      "section": "space-photo",
+      "note": "confined space already has a general image"
+    }
+  ],
+  "mismatches": [],
+  "rescueCatalogMissing": [],
+  "manholesSkipped": [
+    {
+      "tag": "TQL 02",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQL 03",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 07",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 08",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 09",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 10",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 11",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 12",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 13",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 14",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 15",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 16",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 17",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 18",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 19",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 20",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 21",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 22",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQL 07",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 37",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 38",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 39",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 43",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 44",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 45",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 47",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 52",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 53",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQL 06",
+      "reason": "already has 3 manhole(s), spreadsheet implies 3 - not touched"
+    },
+    {
+      "tag": "TQL 04",
+      "reason": "already has 3 manhole(s), spreadsheet implies 3 - not touched"
+    },
+    {
+      "tag": "TQL 05",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQL 09",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 48",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 49",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 50",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 51",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 31",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 32",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 33",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 34",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 35",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 07",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 08",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 09",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 10",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 11",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 12",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 13",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 14",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 15",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 16",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 17",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 18",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 20",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 21",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 22",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 23",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 47",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 48",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 49",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 50",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 51",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 52",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 39",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 40",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 41",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 42",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 43",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 44",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 45",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 46",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 63",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 64",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 65",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 66",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 67",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 32",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 33",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 34",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 35",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 36",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 37",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQL 05",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 27",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 29",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 59",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 60",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 61",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 62",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 53",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "TQ 54",
+      "reason": "already has 1 manhole(s), spreadsheet implies 1 - not touched"
+    },
+    {
+      "tag": "SL 01",
+      "reason": "already has 6 manhole(s), spreadsheet implies 6 - not touched"
+    },
+    {
+      "tag": "SL 02",
+      "reason": "already has 6 manhole(s), spreadsheet implies 6 - not touched"
+    },
+    {
+      "tag": "SL 03",
+      "reason": "already has 6 manhole(s), spreadsheet implies 6 - not touched"
+    },
+    {
+      "tag": "SL 04",
+      "reason": "already has 6 manhole(s), spreadsheet implies 6 - not touched"
+    },
+    {
+      "tag": "SL 05",
+      "reason": "already has 5 manhole(s), spreadsheet implies 5 - not touched"
+    },
+    {
+      "tag": "SL 06",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "SL 07",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "SL 08",
+      "reason": "already has 2 manhole(s), spreadsheet implies 2 - not touched"
+    },
+    {
+      "tag": "TQ 02",
+      "reason": "already has 3 manhole(s), spreadsheet implies 3 - not touched"
+    },
+    {
+      "tag": "TQ 03",
+      "reason": "already has 3 manhole(s), spreadsheet implies 3 - not touched"
+    },
+    {
+      "tag": "TQ 04",
+      "reason": "already has 3 manhole(s), spreadsheet implies 3 - not touched"
+    }
+  ],
+  "failed": []
+}

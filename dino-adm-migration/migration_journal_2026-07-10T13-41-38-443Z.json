@@ -1,0 +1,920 @@
+[
+  {
+    "timestamp": "2026-07-10T13:41:46.826Z",
+    "action": "fill_general",
+    "confinedSpaceId": "eebc3fb6-7da7-4848-af45-e6049a8cf63c",
+    "tag": "TQL 02",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:47.073Z",
+    "action": "fill_general",
+    "confinedSpaceId": "4bfc1898-598a-4a01-b5a2-5b548baadee9",
+    "tag": "TQL 03",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:47.290Z",
+    "action": "fill_general",
+    "confinedSpaceId": "20d9d897-70b5-4753-8b48-1297ee1e3a35",
+    "tag": "TQ 07",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:47.506Z",
+    "action": "fill_general",
+    "confinedSpaceId": "cfb02157-d72b-4ade-bcfa-b9b6498873b7",
+    "tag": "TQ 08",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:47.719Z",
+    "action": "fill_general",
+    "confinedSpaceId": "ea2a94a3-51ce-4d4f-8f7d-cc1226fa6b12",
+    "tag": "TQ 09",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:47.950Z",
+    "action": "fill_general",
+    "confinedSpaceId": "836333c0-bf8f-431e-ac91-30e2a1d17637",
+    "tag": "TQ 10",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:48.215Z",
+    "action": "fill_general",
+    "confinedSpaceId": "3d400961-b487-499a-b08f-e4219e9c6f05",
+    "tag": "TQ 11",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:48.383Z",
+    "action": "fill_general",
+    "confinedSpaceId": "bf419411-91bd-48a1-94ed-80bde679e421",
+    "tag": "TQ 12",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:48.628Z",
+    "action": "fill_general",
+    "confinedSpaceId": "7100262e-d599-4010-8abc-b7368e9eeb7b",
+    "tag": "TQ 13",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:48.796Z",
+    "action": "fill_general",
+    "confinedSpaceId": "3fa409f8-7308-4004-acf3-db9afc4f875c",
+    "tag": "TQ 14",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:49.022Z",
+    "action": "fill_general",
+    "confinedSpaceId": "d010de41-d286-4ee2-8042-159f55617931",
+    "tag": "TQ 15",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:49.202Z",
+    "action": "fill_general",
+    "confinedSpaceId": "c2ffec71-0df8-4c1a-a667-8613489ea8ea",
+    "tag": "TQ 16",
+    "fields": {
+      "isActive": false
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:49.367Z",
+    "action": "fill_general",
+    "confinedSpaceId": "75519354-4f05-4be2-9a1b-6ac2d3440144",
+    "tag": "TQ 17",
+    "fields": {
+      "isActive": false
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:49.522Z",
+    "action": "fill_general",
+    "confinedSpaceId": "3ab62223-01b2-490b-85dd-9403413df563",
+    "tag": "TQ 18",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:49.687Z",
+    "action": "fill_general",
+    "confinedSpaceId": "1b605fc6-33fd-44c7-bb57-2d589bc286fe",
+    "tag": "TQ 19",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:49.917Z",
+    "action": "fill_general",
+    "confinedSpaceId": "c37da1d2-1b9d-4d99-bf78-fb31dac1cefe",
+    "tag": "TQ 20",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:50.112Z",
+    "action": "fill_general",
+    "confinedSpaceId": "14c52a57-e64c-47ca-af60-33185395ba96",
+    "tag": "TQ 21",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:50.275Z",
+    "action": "fill_general",
+    "confinedSpaceId": "36582920-e632-4a94-85b5-376f44347476",
+    "tag": "TQ 22",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:50.443Z",
+    "action": "fill_general",
+    "confinedSpaceId": "cbbc51a3-7edb-4a59-ab7a-7e56b11e3da5",
+    "tag": "TQL 07",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:50.687Z",
+    "action": "fill_general",
+    "confinedSpaceId": "426b1ac7-7bda-4b08-9885-ec7c19aa5230",
+    "tag": "TQ 37",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:50.922Z",
+    "action": "fill_general",
+    "confinedSpaceId": "5816fe57-991b-4ce7-a096-9c730fe06192",
+    "tag": "TQ 38",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:51.165Z",
+    "action": "fill_general",
+    "confinedSpaceId": "12432017-4c76-4c65-8c5e-13727a0ec539",
+    "tag": "TQ 39",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:51.326Z",
+    "action": "fill_general",
+    "confinedSpaceId": "4f1dc447-33c0-4a0a-b287-036ea3135c65",
+    "tag": "TQ 43",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:51.517Z",
+    "action": "fill_general",
+    "confinedSpaceId": "27634ef8-b2d4-43e2-bae9-f856e0f89180",
+    "tag": "TQ 44",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:51.748Z",
+    "action": "fill_general",
+    "confinedSpaceId": "0276ab53-8864-4861-b0ef-f14e323963a2",
+    "tag": "TQ 45",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:51.963Z",
+    "action": "fill_general",
+    "confinedSpaceId": "67efaaae-a1d0-4144-a264-0d070eb7d0c9",
+    "tag": "TQ 47",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:52.182Z",
+    "action": "fill_general",
+    "confinedSpaceId": "9713f5c2-203a-4e81-8b92-985ab5171782",
+    "tag": "TQ 52",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:52.330Z",
+    "action": "fill_general",
+    "confinedSpaceId": "cef0d39b-fbab-4c80-afc2-e7babe0d6258",
+    "tag": "TQ 53",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:52.548Z",
+    "action": "fill_general",
+    "confinedSpaceId": "d1afeba8-a19d-4f9d-a752-6955605ad706",
+    "tag": "TQL 06",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:52.827Z",
+    "action": "fill_general",
+    "confinedSpaceId": "a2d1dd06-027b-4217-9a29-98dbb5afd7be",
+    "tag": "TQL 04",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:53.029Z",
+    "action": "fill_general",
+    "confinedSpaceId": "a56195a2-8c31-4de3-8502-2fc91663383c",
+    "tag": "TQL 05",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:53.173Z",
+    "action": "fill_general",
+    "confinedSpaceId": "26bdc26d-129b-4904-80dd-685ee7341a07",
+    "tag": "TQL 09",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:53.302Z",
+    "action": "fill_general",
+    "confinedSpaceId": "d822b834-79a4-443e-9f9e-502bc2e5fb72",
+    "tag": "TQ 48",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:53.449Z",
+    "action": "fill_general",
+    "confinedSpaceId": "b4567432-a1e5-4e8c-b8e1-9ab8f8c60d2f",
+    "tag": "TQ 49",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:53.603Z",
+    "action": "fill_general",
+    "confinedSpaceId": "620ded59-0af9-4c44-9a3c-ac9187d324d8",
+    "tag": "TQ 50",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:53.813Z",
+    "action": "fill_general",
+    "confinedSpaceId": "c95f72cf-49a0-4a06-a4b7-aff7487ff63c",
+    "tag": "TQ 51",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:54.037Z",
+    "action": "fill_general",
+    "confinedSpaceId": "7384888b-8db1-4b02-91f7-b16f3f425396",
+    "tag": "TQ 31",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:54.192Z",
+    "action": "fill_general",
+    "confinedSpaceId": "3516304c-eb92-4f9d-8331-98b8a7ce0437",
+    "tag": "TQ 32",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:54.340Z",
+    "action": "fill_general",
+    "confinedSpaceId": "1d31f305-4ecd-415f-adbf-0d7d22bb2599",
+    "tag": "TQ 33",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:54.525Z",
+    "action": "fill_general",
+    "confinedSpaceId": "2af065c0-46ac-4bf7-9016-1a024754d4b6",
+    "tag": "TQ 34",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:54.711Z",
+    "action": "fill_general",
+    "confinedSpaceId": "477f5be2-c74b-4d38-a8e6-3ae6f4ab650e",
+    "tag": "TQ 35",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:54.890Z",
+    "action": "fill_general",
+    "confinedSpaceId": "659dc45a-c7f3-4f24-af03-f3d94b781e27",
+    "tag": "TQ 07",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:55.083Z",
+    "action": "fill_general",
+    "confinedSpaceId": "eeadfe62-0a4d-4024-ac79-5b4950e900a9",
+    "tag": "TQ 08",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:55.261Z",
+    "action": "fill_general",
+    "confinedSpaceId": "5fc1cfad-d080-4f62-a383-5c5a14289ae5",
+    "tag": "TQ 09",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:55.445Z",
+    "action": "fill_general",
+    "confinedSpaceId": "3451eb0a-33fa-490d-a2ee-1448d6d6a9ec",
+    "tag": "TQ 10",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:55.628Z",
+    "action": "fill_general",
+    "confinedSpaceId": "186a22b1-7d7f-484a-9aa5-5ace49eb3006",
+    "tag": "TQ 11",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:55.789Z",
+    "action": "fill_general",
+    "confinedSpaceId": "720f6111-4861-411b-a502-8b20352aa2ca",
+    "tag": "TQ 12",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:55.954Z",
+    "action": "fill_general",
+    "confinedSpaceId": "71bee628-c580-430d-acdb-bec87c0df369",
+    "tag": "TQ 13",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:56.159Z",
+    "action": "fill_general",
+    "confinedSpaceId": "74e1d994-b3ff-49b4-8177-3802af79cb52",
+    "tag": "TQ 14",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:56.329Z",
+    "action": "fill_general",
+    "confinedSpaceId": "87e65c23-bc07-4dd5-83b6-b28c6537f0a6",
+    "tag": "TQ 15",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:56.502Z",
+    "action": "fill_general",
+    "confinedSpaceId": "5bbdae02-88ac-4875-8174-bdce60bc4cc8",
+    "tag": "TQ 16",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:56.678Z",
+    "action": "fill_general",
+    "confinedSpaceId": "d7dda01f-d2a2-49e1-b10a-86c5f01c5152",
+    "tag": "TQ 17",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:56.849Z",
+    "action": "fill_general",
+    "confinedSpaceId": "af009a5a-15df-466b-877d-6f05247c8a9e",
+    "tag": "TQ 18",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:57.027Z",
+    "action": "fill_general",
+    "confinedSpaceId": "80267953-07e7-43e1-ac1e-9bac4ce1f300",
+    "tag": "TQ 20",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:57.163Z",
+    "action": "fill_general",
+    "confinedSpaceId": "59dae211-4cfa-4e59-ac61-499dbead5d67",
+    "tag": "TQ 21",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:57.286Z",
+    "action": "fill_general",
+    "confinedSpaceId": "7920b71e-7376-4c4a-813c-0df9d4116cea",
+    "tag": "TQ 22",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:57.429Z",
+    "action": "fill_general",
+    "confinedSpaceId": "3b247546-a39e-4191-967c-0c3e77929473",
+    "tag": "TQ 23",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:57.595Z",
+    "action": "fill_general",
+    "confinedSpaceId": "9f28a2b8-3061-41b5-8ecb-8c4d4ece2932",
+    "tag": "TQ 47",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:57.774Z",
+    "action": "fill_general",
+    "confinedSpaceId": "d47f2ae0-ed26-4084-94b0-2909399e0b46",
+    "tag": "TQ 48",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:57.945Z",
+    "action": "fill_general",
+    "confinedSpaceId": "880f3cec-967a-4760-b84f-c8c38db0fd54",
+    "tag": "TQ 49",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:58.168Z",
+    "action": "fill_general",
+    "confinedSpaceId": "8d69c62c-9eb3-4215-b79e-5c7f07c8f579",
+    "tag": "TQ 50",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:58.381Z",
+    "action": "fill_general",
+    "confinedSpaceId": "d970e377-c1ac-46d4-9644-cf92b660f1ec",
+    "tag": "TQ 51",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:58.621Z",
+    "action": "fill_general",
+    "confinedSpaceId": "ab5fa55f-ea60-4dfa-9516-1c15eee42564",
+    "tag": "TQ 52",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:58.810Z",
+    "action": "fill_general",
+    "confinedSpaceId": "86f6049c-26df-41ad-8bf4-a26faee569b3",
+    "tag": "TQ 39",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:58.951Z",
+    "action": "fill_general",
+    "confinedSpaceId": "ab15c1b0-cf61-4a15-a214-a9e282c41ac5",
+    "tag": "TQ 40",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:59.094Z",
+    "action": "fill_general",
+    "confinedSpaceId": "5ed4cc42-1144-4ac7-b9e6-c18e9e94d001",
+    "tag": "TQ 41",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:59.256Z",
+    "action": "fill_general",
+    "confinedSpaceId": "33e0a4fe-c928-48f8-84d5-f082a54fc4de",
+    "tag": "TQ 42",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:59.389Z",
+    "action": "fill_general",
+    "confinedSpaceId": "44d240a2-f2f6-48ea-b65a-2b37030ac5e9",
+    "tag": "TQ 43",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:59.547Z",
+    "action": "fill_general",
+    "confinedSpaceId": "d33f82c7-25f6-4973-8ffa-c5abb430ca5a",
+    "tag": "TQ 44",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:59.716Z",
+    "action": "fill_general",
+    "confinedSpaceId": "d5e45ae0-f48a-47eb-9997-d9853f392436",
+    "tag": "TQ 45",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:41:59.941Z",
+    "action": "fill_general",
+    "confinedSpaceId": "8cb44ce0-04b8-4e77-9ecf-20c5f8e2d5c8",
+    "tag": "TQ 46",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:00.144Z",
+    "action": "fill_general",
+    "confinedSpaceId": "b9c86267-dda3-4c80-9fc1-98a710804b3c",
+    "tag": "TQ 63",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:00.354Z",
+    "action": "fill_general",
+    "confinedSpaceId": "d68ba4a4-5ffc-4647-82b5-b2c1c7a4c6c8",
+    "tag": "TQ 64",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:00.517Z",
+    "action": "fill_general",
+    "confinedSpaceId": "766429b3-f81c-483b-b75d-55d508cf3468",
+    "tag": "TQ 65",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:00.719Z",
+    "action": "fill_general",
+    "confinedSpaceId": "c07bd744-26d5-4fe7-b3cd-6f554f6f7570",
+    "tag": "TQ 66",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:00.919Z",
+    "action": "fill_general",
+    "confinedSpaceId": "ca3c874d-3d1a-4de3-807f-9d31a594242f",
+    "tag": "TQ 67",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:01.144Z",
+    "action": "fill_general",
+    "confinedSpaceId": "6f6c000e-18e9-42a3-8d0a-9d6fbf9a2eb9",
+    "tag": "TQ 32",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:01.363Z",
+    "action": "fill_general",
+    "confinedSpaceId": "fa1811a1-695b-4b8b-aa98-275741875d4e",
+    "tag": "TQ 33",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:01.590Z",
+    "action": "fill_general",
+    "confinedSpaceId": "f8b2146b-badf-4a0e-b2cb-89c046c8503a",
+    "tag": "TQ 34",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:01.777Z",
+    "action": "fill_general",
+    "confinedSpaceId": "9a8109cb-9fea-4269-baad-9e058bd2648e",
+    "tag": "TQ 35",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:01.965Z",
+    "action": "fill_general",
+    "confinedSpaceId": "9f4fea91-a181-4d53-82d8-494e2831c6db",
+    "tag": "TQ 36",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:02.105Z",
+    "action": "fill_general",
+    "confinedSpaceId": "673c9a0d-2549-4c5d-8e59-e0fed41b86b3",
+    "tag": "TQ 37",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:02.278Z",
+    "action": "fill_general",
+    "confinedSpaceId": "55b5db24-3149-45f6-86c2-6c00f99c7cfa",
+    "tag": "TQL 05",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:02.481Z",
+    "action": "fill_general",
+    "confinedSpaceId": "b0afa898-391d-42d6-81f5-c73be169db0f",
+    "tag": "TQ 27",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:02.700Z",
+    "action": "fill_general",
+    "confinedSpaceId": "e17cef64-b64c-4033-b95b-8d7f450f4b20",
+    "tag": "TQ 29",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:02.929Z",
+    "action": "fill_general",
+    "confinedSpaceId": "bbe70764-4a67-4ee2-8537-32746d142149",
+    "tag": "TQ 59",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:03.161Z",
+    "action": "fill_general",
+    "confinedSpaceId": "aa81e0d2-58c5-4c7f-a4b7-41921d6785ee",
+    "tag": "TQ 60",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:03.346Z",
+    "action": "fill_general",
+    "confinedSpaceId": "f4d00310-fbd0-44f0-95fb-9fa82492d556",
+    "tag": "TQ 61",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:03.501Z",
+    "action": "fill_general",
+    "confinedSpaceId": "d5699b28-8a06-4002-a7ac-52547e3829e4",
+    "tag": "TQ 62",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:03.647Z",
+    "action": "fill_general",
+    "confinedSpaceId": "b55c3753-de61-4fa5-808c-c6d1b78f40fd",
+    "tag": "TQ 53",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:03.802Z",
+    "action": "fill_general",
+    "confinedSpaceId": "189772de-edda-4bc6-aacb-c50462cd46d5",
+    "tag": "TQ 54",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:04.037Z",
+    "action": "fill_general",
+    "confinedSpaceId": "aaa6c0fd-9aa5-4b77-ae04-6b6913eb7851",
+    "tag": "SL 01",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:04.278Z",
+    "action": "fill_general",
+    "confinedSpaceId": "f7973b8a-4570-465e-9ad1-d3bcc0213eed",
+    "tag": "SL 02",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:04.513Z",
+    "action": "fill_general",
+    "confinedSpaceId": "70cd4c55-dd21-444d-b2b7-9bef7820b713",
+    "tag": "SL 03",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:04.777Z",
+    "action": "fill_general",
+    "confinedSpaceId": "541bb9e9-c5e5-4a5e-beb3-40a12063f323",
+    "tag": "SL 04",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:05.020Z",
+    "action": "fill_general",
+    "confinedSpaceId": "c735b53c-42b4-4986-b5ec-31f58bb0c188",
+    "tag": "SL 05",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:05.193Z",
+    "action": "fill_general",
+    "confinedSpaceId": "1ca0b7e3-eada-4fa5-b9b8-a541c4fa170c",
+    "tag": "SL 06",
+    "fields": {
+      "isActive": false
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:05.400Z",
+    "action": "fill_general",
+    "confinedSpaceId": "36173886-3e0f-4928-b75a-bda8828b6801",
+    "tag": "SL 07",
+    "fields": {
+      "isActive": false
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:05.604Z",
+    "action": "fill_general",
+    "confinedSpaceId": "68deca6c-fc92-411b-8a2a-06881ab4273e",
+    "tag": "SL 08",
+    "fields": {
+      "isActive": false
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:05.860Z",
+    "action": "fill_general",
+    "confinedSpaceId": "2bf0bf44-7c91-4dcc-b37c-8dc6e71ac486",
+    "tag": "TQ 02",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:06.069Z",
+    "action": "fill_general",
+    "confinedSpaceId": "a7d37797-439c-47c3-bfb3-94d9d9e2affb",
+    "tag": "TQ 03",
+    "fields": {
+      "isActive": true
+    }
+  },
+  {
+    "timestamp": "2026-07-10T13:42:06.297Z",
+    "action": "fill_general",
+    "confinedSpaceId": "1eca2c11-6e1e-494d-a263-0703c11bb302",
+    "tag": "TQ 04",
+    "fields": {
+      "isActive": true
+    }
+  }
+]

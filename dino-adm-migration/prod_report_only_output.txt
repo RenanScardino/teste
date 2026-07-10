@@ -1,0 +1,3 @@
+Modo: SOMENTE RELATÓRIO (nada é gravado)
+Logging in as renan.silva@scardino.tech ...
+FATAL: Request failed with status code 405
