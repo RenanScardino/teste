@@ -77,7 +77,7 @@ Isso gera `reconcile_report.json` com o plano completo, sem tocar no banco. Conf
 - **`rescueCatalogMissing`** — espaços cujo tipo de resgate esperado não foi encontrado no catálogo da Unity, nem por aproximação (nesse caso, alguém precisa cadastrar esse método de resgate manualmente antes, o script **nunca cria** um novo, só vincula aos que já existem).
 - **Seção `rescue-fuzzy-match`** dentro de `mismatches` — o nome do método de resgate no catálogo de produção não bate 100% com o nome que veio da planilha, mas achei uma correspondência por aproximação (mesmo "Tipo XX" e "Terrestre"/"Suspenso"). **Revise isso manualmente** antes de confiar — o script vincula mesmo assim, mas avisa que não foi um match exato, já que você me disse que em produção os métodos de resgate já existem cadastrados e podem ter nomes escritos de forma um pouco diferente da planilha.
 - **`manholesSkipped`** — espaços que já tinham boca(s) de visita cadastradas; não foram tocados para evitar duplicar.
-- **`failed`** — erros de execução (rede, permissão, etc.).
+- **`failed`** — erros de execução (rede, permissão, etc.). Quando um registro falha em modo LIVE, o script tenta automaticamente descartar (`discard`) qualquer rascunho de Geral/Ventilação/Resgate que tenha ficado aberto/pela metade daquela tentativa naquele espaço específico, pra não deixar nada preso — se não houver nada pra descartar, isso é ignorado silenciosamente.
 
 ### 4. Depois de revisar o relatório, rode de verdade
 

@@ -219,7 +219,17 @@ function findMismatches(current, source) {
   return mismatches;
 }
 
+// Tracks the confined space id the current record is operating on, so that
+// if reconcileConfinedSpace throws partway through, main()'s catch block
+// knows which space to run discardStaleDraftsIfAny() against - without this
+// a failed general/ventilation/rescue edit call leaves its draft dangling
+// forever (never published, never discarded, never picked up again by this
+// script since it always derives a fresh draft from the last published
+// form rather than resuming an existing one - see README).
+let lastConfinedSpaceId = null;
+
 async function reconcileConfinedSpace(rec, cache, catalog) {
+  lastConfinedSpaceId = null;
   const installationId = await ensureInstallation(rec.installation, cache);
   const areaId = await ensureArea(rec.area, installationId, cache);
 
@@ -241,6 +251,7 @@ async function reconcileConfinedSpace(rec, cache, catalog) {
       }),
       `create confined space ${rec.tag}`,
     );
+    lastConfinedSpaceId = cs.id;
     // Rollback for a space created in this run is a full deactivation
     // (isActive: false) - there is no hard-delete endpoint for confined
     // spaces, and deactivating is the same reversible action a manager
@@ -256,6 +267,7 @@ async function reconcileConfinedSpace(rec, cache, catalog) {
 
   // Space already exists - reconcile instead of overwrite.
   const confinedSpaceId = existing.id;
+  lastConfinedSpaceId = confinedSpaceId;
   const publishedGeneral = unwrap(
     await client.get(`/confined-spaces/${confinedSpaceId}/forms/general`),
     `get general ${rec.tag}`,
@@ -566,6 +578,27 @@ async function linkRescue(confinedSpaceId, rec, catalog, currentMethods, recordJ
   report.filledGaps.push({ tag: rec.tag, section: 'rescue', linked: targetName });
 }
 
+// Best-effort cleanup after a failed record: discards any dangling draft
+// (general/ventilation/rescue) left in EDITING status on this confined
+// space by the attempt that just failed, so it doesn't sit around forever
+// un-published and un-discarded. Discarding is safe even if there's nothing
+// to discard (the endpoint 404s/400s, which we just ignore) - never treated
+// as fatal, since this is cleanup on top of an already-failed record.
+async function discardStaleDraftsIfAny(confinedSpaceId, tag) {
+  if (!confinedSpaceId || REPORT_ONLY) return;
+  for (const formType of ['general', 'ventilation', 'rescue']) {
+    try {
+      const res = await client.post(`/confined-spaces/${confinedSpaceId}/forms/${formType}/discard`, {});
+      if (res.status < 400) {
+        console.log(`  -> rascunho de "${formType}" descartado após falha (${tag})`);
+      }
+      // 4xx here just means there was no dangling draft to discard - fine.
+    } catch (err) {
+      console.error(`  aviso: falha ao tentar descartar rascunho de "${formType}" (${tag}): ${err.message}`);
+    }
+  }
+}
+
 async function main() {
   console.log(`Modo: ${REPORT_ONLY ? 'SOMENTE RELATÓRIO (nada é gravado)' : 'GRAVAÇÃO REAL (LIVE)'}`);
   await login();
@@ -584,6 +617,7 @@ async function main() {
     } catch (err) {
       report.failed.push({ tag: rec.tag, admNumeroCadastro: rec.admNumeroCadastro, error: err.message });
       console.error(`  FALHOU: ${rec.tag} - ${err.message}`);
+      await discardStaleDraftsIfAny(lastConfinedSpaceId, rec.tag);
     }
   }
 
